@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taiwo184
-- 👀 I’m interested in developing website
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in Building systems, DevOps
+- 🌱 I’m currently writing bash script, working with Github, Docker, Jenkins.... 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me Google @ olaniyitaiwo906@gmail.com
 
